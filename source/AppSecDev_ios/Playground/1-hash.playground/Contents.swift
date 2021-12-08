@@ -1,8 +1,7 @@
 import UIKit
-@testable import CryptoSwift
+import CryptoSwift
 
 var str = "羊小咩"
-
 var data = str.bytes
 
 let hash1 = data.md5().toHexString()

@@ -1,0 +1,24 @@
+{
+  "name": "learn-starter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "crypto-js": "^4.0.0",
+    "eccrypto": "^1.1.5",
+    "ecdh-crypto": "^1.0.5",
+    "images": "^3.2.3",
+    "newsapi": "^2.4.1",
+    "next": "9.5.3",
+    "node-forge": "^0.10.0",
+    "node-rsa": "^1.1.1",
+    "react": "16.13.1",
+    "react-bootstrap": "^1.3.0",
+    "react-dom": "16.13.1"
+  }
+}

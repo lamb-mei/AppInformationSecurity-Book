@@ -1,0 +1,42 @@
+PODS:
+  - Alamofire (5.2.1)
+  - BlueECC (1.2.5)
+  - CryptoSwift (1.3.2)
+  - PromiseKit (6.13.1):
+    - PromiseKit/CorePromise (= 6.13.1)
+    - PromiseKit/Foundation (= 6.13.1)
+    - PromiseKit/UIKit (= 6.13.1)
+  - PromiseKit/CorePromise (6.13.1)
+  - PromiseKit/Foundation (6.13.1):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.13.1):
+    - PromiseKit/CorePromise
+  - SwiftyRSA (1.6.0):
+    - SwiftyRSA/ObjC (= 1.6.0)
+  - SwiftyRSA/ObjC (1.6.0)
+
+DEPENDENCIES:
+  - Alamofire (= 5.2.1)
+  - BlueECC (= 1.2.5)
+  - CryptoSwift (= 1.3.2)
+  - PromiseKit (= 6.13.1)
+  - SwiftyRSA (= 1.6.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - BlueECC
+    - CryptoSwift
+    - PromiseKit
+    - SwiftyRSA
+
+SPEC CHECKSUMS:
+  Alamofire: e911732990610fe89af59ac0077f923d72dc3dfd
+  BlueECC: 0d18e93347d3ec6d41416de21c1ffa4d4cd3c2cc
+  CryptoSwift: 093499be1a94b0cae36e6c26b70870668cb56060
+  PromiseKit: 28fda91c973cc377875d8c0ea4f973013c05b6db
+  SwiftyRSA: 3b9c9179744217951facc6a3e9ae8d8c97061ffa
+
+PODFILE CHECKSUM: a78dd090ea38e5cc452661c608fbc9766a05229f
+
+COCOAPODS: 1.10.0
