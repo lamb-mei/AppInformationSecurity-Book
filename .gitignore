@@ -2,3 +2,8 @@
 .DS_Store
 thumbs.db
 
+
+source/AppSecDev_ios/Pods/
+source/AppSecDev_server/.next/
+source/AppSecDev_server/.vscode/
+source/AppSecDev_server/node_modules/
